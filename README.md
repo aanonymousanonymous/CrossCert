@@ -35,6 +35,9 @@ Finally, calculate the final result of CrossCert by CrossCert_sta.py. Both Cross
 python -u CrossCert_sta.py --dataset cifar100 --patch_size 39 --ablation_size 19
 ```
 
+## peer techniques
+For PatchCensor, please refer to https://github.com/YuhengHuang42/PatchCensor/tree/main
+For ViP, please refer to https://github.com/UCSC-VLAA/vit_cert. The original source of their MAE can see https://github.com/facebookresearch/mae
 
 
 ## Acknowledgment
